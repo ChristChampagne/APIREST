@@ -1,0 +1,19 @@
+[
+    {
+        "nombre":"Titanic",
+        "año":2019,
+        "genero":"acción"
+    },
+
+    {
+        "nombre":"Piratas del caribe",
+        "año":2020,
+        "genero":"comedia"
+    },
+
+    {
+        "nombre":"¿Que paso ayer?",
+        "año":2019,
+        "genero":"comedia"
+    }
+]
